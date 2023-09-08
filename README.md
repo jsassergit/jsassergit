@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @jsassergit
 - 👀 I’m interested in ...music,programming,art
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning CCNA/CPA!
 - 🐍 I write python programs!
+- 🪟 I also write programs in C#
+- 🎮 And i wite games too!
 - 📫 How to reach me ... To do: Reach me at @ joseph.sasser.code@gmail.com. ❌
 
 <!---
